@@ -1,0 +1,1 @@
+https://docs.discourse.org/#tag/Posts/paths/~1posts.json/post
